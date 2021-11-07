@@ -1,0 +1,29 @@
+{
+  "name": "cloudmusic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@moefe/vue-aplayer": "^2.0.0-beta.5",
+    "aplayer": "^1.10.1",
+    "core-js": "^3.6.4",
+    "element-ui": "^2.15.1",
+    "nprogress": "^0.2.0",
+    "vue": "^2.6.12",
+    "vue-router": "^3.1.6",
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "axios": "^0.21.1",
+    "vue-lazyload": "^1.3.3",
+    "vue-template-compiler": "^2.6.12",
+    "vuex": "^3.6.2",
+    "webpack": "^4.46.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
